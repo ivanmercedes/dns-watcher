@@ -1,0 +1,7 @@
+Dominios.xlsx
+domains.txt
+dist/
+*.db
+state.json
+changes.log
+config.json
